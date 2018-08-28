@@ -1,2 +1,6 @@
 # hello-world
-Just another repository 
+
+Hi Humans,
+
+
+Damian Here, Just trying to learn something new!
